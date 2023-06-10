@@ -1,0 +1,2 @@
+# pyqwikswitchapi
+pyQwikswitchAPI library
